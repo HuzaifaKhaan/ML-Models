@@ -83,5 +83,5 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 
 ## Contact
 
-For any questions or inquiries about this project, please contact Huzaifa Khan at huzukham14@gmail.com.
+For any questions or inquiries about this project, please contact at huzukham14@gmail.com.
 
