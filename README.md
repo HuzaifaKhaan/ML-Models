@@ -32,11 +32,13 @@ This repository contains a predictive model for the Titanic dataset, a classic d
 
 The project structure is organized as follows:
 
-- `data/`: Store the dataset files.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, modeling, and evaluation.
-- `scripts/`: Python scripts for specific tasks or utilities.
-- `requirements.txt`: List of Python packages required to run the code.
-- `LICENSE`: The license information for this project.
+- `CodSoft/`: Main repository directory.
+  - `Titanic_Prediction_Model/`: Directory containing project files.
+    - `data/`: Store the dataset files.
+    - `notebooks/`: Jupyter notebooks for data exploration, preprocessing, modeling, and evaluation.
+    - `scripts/`: Python scripts for specific tasks or utilities.
+    - `requirements.txt`: List of Python packages required to run the code.
+    - `LICENSE`: The license information for this project.
 
 ## Getting Started
 
@@ -49,7 +51,7 @@ Before you begin, ensure you have the following prerequisites:
 - Install required Python packages using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r CodSoft/Titanic_Prediction_Model/requirements.txt
 ```
 
 ### Installation
@@ -57,8 +59,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/titanic-prediction.git
-cd titanic-prediction
+git clone https://github.com/your-username/CodSoft.git
+cd CodSoft/Titanic_Prediction_Model
 ```
 
 2. Download the dataset from Kaggle and place it in the `data/` directory.
@@ -87,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or inquiries about this project, please contact [Your Name] at [your.email@example.com].
 ```
 
-You can use this template by copying and pasting it into a file named `README.md` in the root directory of your GitHub repository. Make sure to replace `[Your Name]`, `[your.email@example.com]`, and `[your-username]` with your actual name, email address, and GitHub username. Additionally, customize the content as needed to match your specific project.
+This modified template considers your repository structure with the "CodSoft" repository and the "Titanic_Prediction_Model" folder inside it. Make sure to replace `[Your Name]`, `[your.email@example.com]`, and `[your-username]` with your actual information and customize the content as needed for your specific project.
