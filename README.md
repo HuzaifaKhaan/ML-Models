@@ -75,9 +75,6 @@ cd CodSoft/Titanic_Prediction_Model
 
 Contributions are welcome! If you find issues or have suggestions for improvements, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -86,7 +83,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries about this project, please contact [Your Name] at [your.email@example.com].
-```
+For any questions or inquiries about this project, please contact Huzaifa Khan at huzukham14@gmail.com.
 
-This modified template considers your repository structure with the "CodSoft" repository and the "Titanic_Prediction_Model" folder inside it. Make sure to replace `[Your Name]`, `[your.email@example.com]`, and `[your-username]` with your actual information and customize the content as needed for your specific project.
