@@ -62,5 +62,4 @@ Contributions are welcome! If you encounter issues or have suggestions for enhan
 ## Contact
 
 For any inquiries or questions regarding this project, feel free to contact huzukham14@gmail.com.
-```
 
